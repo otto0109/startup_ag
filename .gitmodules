@@ -1,0 +1,8 @@
+[submodule "startup_ag_frontend"]
+	path = startup_ag_frontend
+	url = https://github.com/otto0109/startup_ag_frontend
+	branch = main
+[submodule "startup_ag_backend"]
+	path = startup_ag_backend
+	url = https://github.com/otto0109/startup_ag_backend
+	branch = main
