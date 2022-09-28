@@ -17,10 +17,11 @@ Zum Lösen der Aufgaben empfiehlt es sich folgende Vorbereitungen zu treffen:
    1. In cmd kann man mit cd navigieren.
       1. cmd .. navigiert dich einen Ordner zurück
       2. cmd ordnername navigiert dich zu einem Ordner
-3. In ein Ordner navigieren, indem du deine Projekte haben möchtest.
-4. git clone --recurse-submodules https://github.com/otto0109/startup_ag.git ausführen
-5. Öffne Visual Studio Code
-6. Klicke auf Open Folder und öffne das Projekt
+3. Installiere Git (64bit) https://git-scm.com/download/win
+4. In ein Ordner navigieren, indem du deine Projekte haben möchtest.
+5. git clone --recurse-submodules https://github.com/otto0109/startup_ag.git ausführen
+6. Öffne Visual Studio Code
+7. Klicke auf Open Folder und öffne das Projekt
 
 ## Backend
 1. Installieren GO https://go.dev/dl/
