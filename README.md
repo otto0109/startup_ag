@@ -15,8 +15,8 @@ Zum Lösen der Aufgaben empfiehlt es sich folgende Vorbereitungen zu treffen:
 1. Visual Studio Code installieren: https://code.visualstudio.com/download
 2. Ein Command Line Interface öffnen. Beispielsweise CMD.
    1. In cmd kann man mit cd navigieren.
-      1. cmd .. navigiert dich einen Ordner zurück
-      2. cmd ordnername navigiert dich zu einem Ordner
+      1. cd .. navigiert dich einen Ordner zurück
+      2. cd ordnername navigiert dich zu einem Ordner
 3. Installiere Git (64bit) https://git-scm.com/download/win
 4. In ein Ordner navigieren, indem du deine Projekte haben möchtest.
 5. git clone --recurse-submodules https://github.com/otto0109/startup_ag.git ausführen
